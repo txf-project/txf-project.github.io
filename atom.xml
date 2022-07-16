@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-05-17T14:08:53.389Z</updated>
+  <updated>2022-05-28T22:14:51.012Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,23 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2022/05/17/hello-world/"/>
-    <id>http://example.com/2022/05/17/hello-world/</id>
-    <published>2022-05-17T14:08:53.389Z</published>
-    <updated>2022-05-17T14:08:53.389Z</updated>
+    <title>浅谈Redis分布式锁</title>
+    <link href="http://example.com/2022/05/29/%E6%B5%85%E8%B0%88Redis%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/"/>
+    <id>http://example.com/2022/05/29/%E6%B5%85%E8%B0%88Redis%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/</id>
+    <published>2022-05-28T16:00:00.000Z</published>
+    <updated>2022-05-28T22:14:51.012Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;浅谈Redis分布式锁&quot;&gt;&lt;a href=&quot;#浅谈Redis分布式锁&quot; class=&quot;headerlink&quot; title=&quot;浅谈Redis分布式锁&quot;&gt;&lt;/a&gt;浅谈Redis分布式锁&lt;/h1&gt;&lt;h3 id=&quot;演变历程&quot;&gt;&lt;a href=&quot;#演变历程&quot;</summary>
         
       
     
     
     
+    <category term="分布式" scheme="http://example.com/categories/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+    
+    
+    <category term="Redis" scheme="http://example.com/tags/Redis/"/>
+    
+    <category term="分布式锁" scheme="http://example.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/"/>
     
   </entry>
   
